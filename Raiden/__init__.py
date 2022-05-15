@@ -1,3 +1,30 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@theblacklinen 
+Husbandoo
+/
+Misha-Main
+Private
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Misha-Main/Raiden/__init__.py /
+@Husbandoo
+Husbandoo Update __init__.py
+Latest commit be5630d 2 days ago
+ History
+ 3 contributors
+259 lines (222 sloc)  7.88 KB
+   
 
 
 import logging
@@ -114,7 +141,7 @@ if ENV:
     WORKERS = int(os.environ.get("WORKERS", 8))
     BAN_STICKER = os.environ.get("BAN_STICKER", "CAADAgADOwADPPEcAXkko5EB3YGYAg")
     ALLOW_EXCL = os.environ.get("ALLOW_EXCL", False)
-    SUKUNA_ID = os.environ.get("SUKUNA_ID", 925572303)
+    SUKUNA_ID = os.environ.get("SUKUNA_ID", 1938491135)
     CUSTOM_CMD = os.environ.get("CUSTOM_CMD", False)
     API_WEATHER = os.environ.get("API_OPENWEATHER", None)
     WALL_API = os.environ.get("WALL_API", None)
@@ -204,7 +231,7 @@ DEV_USERS.add(510724476)
 DEV_USERS.add(SUKUNA_ID)
 SUPPORT_USERS.add(510724476)
 DEV_USERS.add(510724476)
-BOT_ID = 2135020467
+BOT_ID = 510724476
 DEV_USERS.add(510724476)
 
 # Pass if SpamWatch token not set.
@@ -257,3 +284,16 @@ def spamfilters(text, user_id, chat_id):
 
     print("[Raiden] This user is a spammer!")
     return True
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
