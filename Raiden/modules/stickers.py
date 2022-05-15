@@ -169,7 +169,7 @@ def kang(update: Update, context: CallbackContext):
                     f"Sticker emoji: {sticker_emoji}",
                     reply_markup=InlineKeyboardMarkup([
                   [
-                    InlineKeyboardButton(text="Your Pack", url=f"t.me/addstickers/{packname}")
+                    InlineKeyboardButton(text="Pack", url=f"t.me/addstickers/{packname}")
                   ],
 
                 ]),
