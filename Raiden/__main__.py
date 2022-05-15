@@ -89,13 +89,13 @@ RAIDEN_START = "https://telegra.ph/file/a65a501d9cdb9e31729d9.mp4"
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/91139a33e2a1e7ca25559.jpg) 」────
 ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ {} - sᴀɴ!  
-ɪ'ᴍ [𝑬𝒓𝒊𝒏𝒂](https://shokugekinosoma.fandom.com/wiki/Erina_Nakiri) ᴀɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
+ɪ'ᴍ [ᴇʀɪɴᴀ](https://shokugekinosoma.fandom.com/wiki/Erina_Nakiri) ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 » ᴜᴘᴛɪᴍᴇ {} 
 » ᴜsᴇʀs {} ᴀᴄʀᴏss {} ᴄʜᴀᴛs 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ᴀғᴛᴇʀ ᴍʏ ᴇʟᴇᴍᴇɴᴛᴀʟ ʙᴜғғ. ××  
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ [𝐀𝐧𝐢𝐦𝐞 𝐂𝐥𝐚𝐧](https://t.me/Acgc_01).
+𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 [𝐀𝐧𝐢𝐦𝐞 𝐂𝐥𝐚𝐧](https://t.me/Anime_X_Clan).
 """
 
 buttons = [
